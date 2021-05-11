@@ -4,7 +4,7 @@
  * @Author: lzy
  * @Date: 2021-04-12 15:29:50
  * @LastEditors: Andy
- * @LastEditTime: 2021-05-11 11:29:48
+ * @LastEditTime: 2021-05-11 11:35:18
 -->
 ## 基于React+antd实现后台模板
 
@@ -46,7 +46,7 @@
 ### 技术栈
 react + webpack + redux + router + axios + mockJs + antv + antd +  ...
 ### 项目截图
-![avatar](./src/assets/img/登录.png)
+![avatar](src/assets/img/antv.png)
 ### 项目结构
 
 ```
