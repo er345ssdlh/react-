@@ -4,9 +4,10 @@
  * @Author: lzy
  * @Date: 2021-04-12 15:29:50
  * @LastEditors: Andy
- * @LastEditTime: 2021-05-11 11:08:42
+ * @LastEditTime: 2021-05-11 11:29:48
 -->
-## React
+## 基于React+antd实现后台模板
+
 学习过程参考资料：
 [核心思想](https://segmentfault.com/a/1190000012052941)
 [生命周期详细](https://www.jianshu.com/p/b331d0e4b398)
@@ -19,23 +20,33 @@
 [基本面题](https://www.cnblogs.com/bzsheng/p/12690480.html)
 [路由传参](https://www.jianshu.com/p/7ad7ab2745af)
 [配置路由表方法](https://www.jianshu.com/p/677433245697)
+[本地git链接github](https://blog.csdn.net/sihai12345/article/details/72379831)
 
 以下为项目学习内容↓
 > 开发登录页（使用sessionStorage模拟用户登录）
-> jsx语法练习，生命周期执行规则
-> antv调研，包括X6,G6,G2，页面内使用了路由嵌套
-> antd调研 包含分页列表的案例
-> todoList经典综合案例（组件化开发）
-> webpack 的基本配置
-> axios 封装处理
-> Mock.js 模拟数据
-> 封装路由表自动生成侧边栏
+
+> jsx语法练习，生命周期执行规则 
+
+> antv调研，包括X6,G6,G2，页面内使用了路由嵌套 
+
+> antd调研 包含分页列表的案例 
+
+> todoList经典综合案例（组件化开发） 
+
+> webpack 的基本配置 
+
+> axios 封装处理 
+
+> Mock.js 模拟数据 
+
+> 封装路由表自动生成侧边栏 
+
 > redux
 
 ### 技术栈
-
-### 基本功能
-
+react + webpack + redux + router + axios + mockJs + antv + antd +  ...
+### 项目截图
+![avatar](./src/assets/img/登录.png)
 ### 项目结构
 
 ```

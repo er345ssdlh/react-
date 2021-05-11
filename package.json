@@ -40,6 +40,7 @@
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.3.1",
     "image-webpack-loader": "^7.0.1",
+    "mockjs": "^1.1.0",
     "node-sass": "^5.0.0",
     "sass-loader": "^11.0.1",
     "style-loader": "^2.0.0",
@@ -47,6 +48,7 @@
     "url-loader": "^4.1.1",
     "webpack": "^5.31.2",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-dev-server": "^3.11.2",
+    "webpack-merge": "^5.7.3"
   }
 }
