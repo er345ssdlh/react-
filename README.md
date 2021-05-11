@@ -4,10 +4,10 @@
  * @Author: lzy
  * @Date: 2021-04-12 15:29:50
  * @LastEditors: Andy
- * @LastEditTime: 2021-04-22 18:34:41
+ * @LastEditTime: 2021-05-11 11:08:42
 -->
 ## React
-踩到的坑解决方法：
+学习过程参考资料：
 [核心思想](https://segmentfault.com/a/1190000012052941)
 [生命周期详细](https://www.jianshu.com/p/b331d0e4b398)
 [绑定事件的方法](https://segmentfault.com/a/1190000011317515)
@@ -19,6 +19,7 @@
 [基本面题](https://www.cnblogs.com/bzsheng/p/12690480.html)
 [路由传参](https://www.jianshu.com/p/7ad7ab2745af)
 [配置路由表方法](https://www.jianshu.com/p/677433245697)
+
 以下为项目学习内容↓
 > 开发登录页（使用sessionStorage模拟用户登录）
 > jsx语法练习，生命周期执行规则
@@ -26,9 +27,10 @@
 > antd调研 包含分页列表的案例
 > todoList经典综合案例（组件化开发）
 > webpack 的基本配置
-
-redux act 异步处理
-jsx语法支持插件支持 if else
+> axios 封装处理
+> Mock.js 模拟数据
+> 封装路由表自动生成侧边栏
+> redux
 
 ### 技术栈
 
@@ -42,17 +44,15 @@ jsx语法支持插件支持 if else
 ### 使用方法
 
 ```npm
-git clone https://github.com/zhangfeng001/webpack-react-demo.git
-
-cd react-admin
+git clone https://github.com/er345ssdlh/react-.git
 
 // 安装依赖
-yarn
+cnpm i
 
 // 启动
-yarn start
+npm run dev
 
 // 打包
-yarn build
+npm run build
 
 ```
